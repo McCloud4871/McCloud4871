@@ -1,12 +1,12 @@
-# John Patrick Thomas Portfolio
+# John Patrick Thomas
 
-## Portfolio
+## Cybersecurity Portfolio
 
 Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently completed a Master's Degree in Cyber Security and have prior experience in networking, telecommunications, and IT infrastructure. I am currently seeking opportunities in cybersecurity where I can apply my skills in GRC, incident response, security operations, cloud security, and network security.
 
 ---
 
-# Cybersecurity Projects
+# Projects
 
 | Project | Skills | Tools | Link |
 |---|---|---|---|
