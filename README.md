@@ -6,7 +6,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 
 ---
 
-# Project Overview
+# Cybersecurity Projects
 
 | Project | Skills | Tools | Link |
 |---|---|---|---|
