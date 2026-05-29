@@ -80,16 +80,8 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 
 ---
 
-# Resume
-
-You can download my latest resume here:
-
-[Download Resume](#)
-
----
-
 # Contact
 
-- LinkedIn: www.linkedin.com/in/john-patrick-thomas-32343426
+<a href="https://www.linkedin.com/in/john-patrick-thomas-32343426"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - Email: jt1784@hotmail.com
   
