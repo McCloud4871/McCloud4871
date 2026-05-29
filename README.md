@@ -10,7 +10,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 
 | Project | Skills | Tools | Link |
 |---|---|---|---|
-| Building a SIEM | Log Management, Security Architecture, Threat Monitoring | LogRhythm, Azure | [SIEM Project](#) |
+| Building a SIEM | Log Management, Security Architecture, Threat Monitoring | LogRhythm, Azure | [SIEM Project](https://github.com/McCloud4871/SIEM) |
 | Event Correlation & Incident Aggregation | API Security, Incident Detection, Backend Development | Node.js, Swagger UI, Supabase | [CT-007 Project](#) |
 | Kubernetes Secure Deployment | Container Security, Deployment Management, YAML Configuration | Kubernetes, Docker, MicroK8s | [Kubernetes Project](#) |
 | AWS Dynamic Website Hosting | Cloud Infrastructure, Networking, Web Hosting | AWS EC2, RDS, S3, Load Balancer | [AWS Project](#) |
