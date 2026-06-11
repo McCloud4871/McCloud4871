@@ -15,7 +15,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 | Kubernetes Secure Deployment | Container Security, Deployment Management, YAML Configuration | Kubernetes, Docker, MicroK8s | [Kubernetes Project](#) |
 | AWS Dynamic Website Hosting | Cloud Infrastructure, Networking, Web Hosting | AWS EC2, RDS, S3, Load Balancer | [AWS Project](#) |
 | Vulnerability Detection Lab | Threat Analysis, Intrusion Detection, Security Monitoring | Wireshark, Snort, Wazuh, Suricata | [Security Monitoring Lab](#) |
-| Jenkins CI/CD Security Pipeline | Automation, Secure Development, DevOps | Jenkins, GitHub, Docker | [CI/CD Project](#) |
+
 
 ---
 
