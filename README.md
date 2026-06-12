@@ -12,7 +12,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 |---|---|---|---|
 | Building a SIEM | Log Management, Security Architecture, Threat Monitoring | LogRhythm, Azure | [SIEM Project](https://github.com/McCloud4871/SIEM) |
 | Event Correlation & Incident Aggregation | API Security, Incident Detection, Backend Development | Node.js, Swagger UI, Supabase | [CT-007 Project](#) |
-| AWS Dynamic Website Hosting | Cloud Infrastructure, Networking, Web Hosting | AWS EC2, RDS, S3, Load Balancer | [AWS Project](#) |
+| AWS - Auto Scaling Web Applications with High Availability | Cloud Infrastructure, Load Balancing, Auto Scaling, Network Configuration, High Availability, AWS Architecture | AWS EC2, Auto Scaling Groups, Application Load Balancer, NAT Gateway, VPC, Systems Manager | [AWS Project](#) |
 | Active Directory Security Monitoring Lab | Active Directory Administration, Security Monitoring, SIEM Configuration, Threat Detection, Log Analysis | Windows Server 2022, Splunk Enterprise, Sysmon, Splunk Universal Forwarder, Kali Linux, VirtualBox | [AD Security Lab](https://github.com/McCloud4871/Active-Directory-Security-Monitoring-Lab) |
 
 
