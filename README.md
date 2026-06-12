@@ -14,7 +14,6 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 | Event Correlation & Incident Aggregation | API Security, Incident Detection, Backend Development | Node.js, Swagger UI, Supabase | [CT-007 Project](#) |
 | Kubernetes Secure Deployment | Container Security, Deployment Management, YAML Configuration | Kubernetes, Docker, MicroK8s | [Kubernetes Project](#) |
 | AWS Dynamic Website Hosting | Cloud Infrastructure, Networking, Web Hosting | AWS EC2, RDS, S3, Load Balancer | [AWS Project](#) |
-| Vulnerability Detection Lab | Threat Analysis, Intrusion Detection, Security Monitoring | Wireshark, Snort, Wazuh, Suricata | [Security Monitoring Lab](#) |
 | Active Directory Security Monitoring Lab | Active Directory Administration, Security Monitoring, SIEM Configuration, Threat Detection, Log Analysis | Windows Server 2022, Splunk Enterprise, Sysmon, Splunk Universal Forwarder, Kali Linux, VirtualBox | [AD Security Lab](https://github.com/McCloud4871/Active-Directory-Security-Monitoring-Lab) |
 
 
