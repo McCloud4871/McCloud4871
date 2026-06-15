@@ -13,7 +13,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 | pfSense Network Firewall | Log Management, Security Architecture, Threat Monitoring | LogRhythm, Azure | [pfSense Net FW](https://github.com/McCloud4871/SIEM) |
 | Safeline WAF Deployment and Protection | Web App Security, WAF Administration, SSL/TLS Configuration, Attack Detection, Access Control | SafeLine WAF, DVWA, Apache2, MySQL, Kali Linux, OpenSSL, VirtualBox | [Safeline WAF](https://github.com/McCloud4871/Safeline-WAF-Deployment-and-Protection-Lab/blob/main/README.md) |
 | AWS - Auto Scaling Web Applications with High Availability | Cloud Infrastructure, Load Balancing, Auto Scaling, Network Configuration, High Availability, AWS Architecture | AWS EC2, Auto Scaling Groups, Application Load Balancer, NAT Gateway, VPC, Systems Manager | [AWS Auto-Scaling Project](https://github.com/McCloud4871/AWS-Auto-Scaling-Web-Applications-with-High-Availability) |
-| Active Directory Security Monitoring Lab | Active Directory Administration, Security Monitoring, SIEM Configuration, Threat Detection, Log Analysis | Windows Server 2022, Splunk Enterprise, Sysmon, Splunk Universal Forwarder, Kali Linux, VirtualBox | [AD Security Lab](https://github.com/McCloud4871/Active-Directory-Security-Monitoring-Lab) |
+| Active Directory Security Monitoring | Active Directory Administration, Security Monitoring, SIEM Configuration, Threat Detection, Log Analysis | Windows Server 2022, Splunk Enterprise, Sysmon, Splunk Universal Forwarder, Kali Linux, VirtualBox | [AD Security](https://github.com/McCloud4871/Active-Directory-Security-Monitoring-Lab) |
 
 
 ---
