@@ -27,7 +27,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 | Microsoft AZ-900 | Yes | [View Certificate](#) |
 | Cisco CCNP | Yes | [View Certificate](#) |
 | PCEP Python Certification | Yes | [View Certificate](#) |
-| CompTIA CySA+ | Planned | [Certification Info](#) |
+| THM SAL1 | in progress | [Certification Info](#) |
 
 ---
 
@@ -62,20 +62,7 @@ Hi, I'm John Patrick Thomas and this is my Cyber Security Portfolio. I recently 
 
 ---
 
-# Tools & Technologies
 
-- Wireshark
-- Wazuh
-- Splunk
-- Snort
-- Suricata
-- OSSEC
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub
-- Swagger UI
-- Supabase
 
 ---
 
